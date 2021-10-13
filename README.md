@@ -15,7 +15,7 @@ php artisan db:seed
 ```
 
 * After that you can run the project .
-* 
+
 ```bash
 php artisan serve
 ```

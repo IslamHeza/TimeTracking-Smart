@@ -2,10 +2,20 @@
 
 > To run
 
-* you need an internet connection to use the bootstrab and Full Calender cdn.
+* This Task developed using Laravel 8, BootStrap 5 and Full Calender JS.
 
-* you can use seeds to generate default projects.
+* You need an internet connection to use the bootstrab and Full Calender cdn.
 
-* Sure, you need to create a database and handle its configuration.
+* You need to create a database and handle its configuration and migrations.
 
+* You can use seeds to generate default projects.
 
+```bash
+php artisan db:seed
+```
+
+* After that you can run the project .
+* 
+```bash
+php artisan serve
+```
